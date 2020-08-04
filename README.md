@@ -14,4 +14,6 @@ Quick links to some of the more interesting ones:
 - I’m looking for help with ... anything! If you find any projects useful/interesting, submit a pull request, or start a fork!
 - Ask me about ... anything! I love to help people, especially if it concerns programming.
 
+[![svaught598's github stats](https://github-readme-stats.vercel.app/api?username=svaught598)](https://github.com/svaught598/github-readme-stats)
+
 
