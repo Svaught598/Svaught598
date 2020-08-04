@@ -1,6 +1,6 @@
 ### At a Glance             
 <a href="https://github.com/svaught598/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaught598&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaught598" />
 </a>
 Head to [my website](svaught.com) to read about more about my projects!
 
