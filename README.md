@@ -1,4 +1,6 @@
-### At a Glance
+### At a Glance             
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svaught598&layout=compact)](https://github.com/svaught598/github-readme-stats)
 
 Head to [my website](svaught.com) to read about more about my projects!
 
