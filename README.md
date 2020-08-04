@@ -2,12 +2,12 @@
 <a href="https://github.com/svaught598/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaught598&layout=compact" />
 </a>
-Head to [my website](svaught.com) to read about more about my projects!
+Head to ![my website](svaught.com) to read about more about my projects!
 
 Quick links to some of the more interesting ones:
-- [CHIP-8 Emulator](https://svaught.com/project/chip8/)
-- [Wetlab App](https://svaught.com/project/wetlab/)
-- [Infection Simulation](https://svaught.com/project/infection/)
+- ![CHIP-8 Emulator](https://svaught.com/project/chip8/)
+- ![Wetlab App](https://svaught.com/project/wetlab/)
+- ![Infection Simulation](https://svaught.com/project/infection/)
 
 ### Other Stuff
 
