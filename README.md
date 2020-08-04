@@ -12,7 +12,5 @@ Quick links to some of the more interesting ones:
 
 ### Other Stuff
 
-- I’m currently learning more about **system emulation** and **computer hardware**.
-- I’m looking to collaborate on ... anything! If you have any requests, I'd love to contribute to an interesting project, drop a line! 
-- I’m looking for help with ... anything! If you find any projects useful/interesting, submit a pull request, or start a fork!
-- Ask me about ... anything! I love to help people, *especially* if it concerns programming.
+- I’m currently learning more about **system emulation** and **low-level programming**.
+- I have future plans to create a Gameboy emulator using C++ and ![ImGui](https://github.com/ocornut/imgui)
