@@ -14,3 +14,7 @@ Quick links to some of the more interesting ones:
 
 - I’m currently learning more about **system emulation** and **low-level programming**.
 - I have future plans to create a Gameboy emulator using C++ and ![ImGui](https://github.com/ocornut/imgui)
+
+### Contact Me
+
+email at Svaught598@gmail.com
