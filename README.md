@@ -12,7 +12,8 @@ Quick links to some of the more interesting ones:
 
 ### Other Stuff
 
-- I’m currently learning more about **system emulation** and **low-level programming**.
+- I’m currently learning more about working on a Flask website that does stuff with words and markov chains
+- I'm always learning more about various computational areas with avid fascination in all (well, most) things low-level
 - I have future plans to create a Gameboy emulator using C++ and ![ImGui](https://github.com/ocornut/imgui)
 
 ### Contact Me
