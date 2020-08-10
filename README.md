@@ -10,11 +10,16 @@ Quick links to some of the more interesting ones:
 - [Wetlab App](https://svaught.com/project/wetlab/)
 - [Infection Simulation](https://svaught.com/project/infection/)
 
-### Other Stuff
+### More Detail
 
 - I’m currently learning more about working on a Flask website that does stuff with words and markov chains
-- I'm always learning more about various computational areas with avid fascination in all (well, most) things low-level
+- Always keen to learn more about various computational areas with avid fascination in all (well, most) things low-level
+- Very interested in Powerlifting, Retro computers, and Philosophy!
+
+### Future Plans
 - I have future plans to create a Gameboy emulator using C++ and ![ImGui](https://github.com/ocornut/imgui)
+- Really want to get into ![PICO-8](https://www.lexaloffle.com/pico-8.php) Development, looks super fun!
+
 
 ### Contact Me
 
