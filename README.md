@@ -12,13 +12,14 @@ Quick links to some of the more interesting ones:
 
 ### More Stuff
 
-- I’m currently learning more about working on a Flask website that does stuff with words and markov chains
+- I’m currently working on a Flask website that does stuff with words and markov chains, it's cool, I promise :)
 - Always keen to learn more about various computational areas with avid fascination in all (well, most) things low-level
 - Particularly interested in data analysis and computational/statistical models.
 
 ### Future Plans
 - Creating a Gameboy emulator using C++ and ![ImGui](https://github.com/ocornut/imgui)
 - Developing a dashboard using ![Plotly](https://plotly.com/) to learn more about data science things.
+- Maybe do some exploratory simulation of golf ball dynamics, ![the Magnus Effect] is really cool!
 
 ### Contact Me
 
