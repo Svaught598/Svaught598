@@ -18,8 +18,8 @@ Quick links to some of the more interesting ones:
 
 ### Future Plans
 - Creating a Gameboy emulator using C++ and ![ImGui](https://github.com/ocornut/imgui)
-- Developing a dashboard using ![Plotly](https://plotly.com/) to learn more about data science things.
-- Maybe do some exploratory simulation of golf ball dynamics, ![the Magnus Effect](https://en.wikipedia.org/wiki/Magnus_effect) is really cool!
+- Developing a dashboard using [Plotly](https://plotly.com/) to learn more about data science things.
+- Maybe do some exploratory simulation of golf ball dynamics, [the Magnus Effect](https://en.wikipedia.org/wiki/Magnus_effect) is really cool!
 
 ### Contact Me
 
