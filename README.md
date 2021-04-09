@@ -14,7 +14,6 @@ Quick links to some of the more interesting projects I've worked on solo:
 
 - I’m currently working on an NES emulator in C++, it's around here somewhere
 - Always down to learn more about various computational areas, particularly low-level stuff
-- Data analysis
 
 ### Future Plans
 - Creating a Gameboy emulator using C++ and ![ImGui](https://github.com/ocornut/imgui)
