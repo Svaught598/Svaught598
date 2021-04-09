@@ -5,9 +5,10 @@
 
 I have a **[website](http://svaught.com)** that I haven't updated in forever hehe
 
-Quick links to some of the more interesting ones:
+Quick links to some of the more interesting projects I've worked on solo:
 - [CHIP-8 Emulator](https://svaught.com/project/chip8/)
 - [Wetlab App](https://svaught.com/project/wetlab/)
+- [NES Emulator](https://github.com/Svaught598/cppNES)
 
 ### More Stuff
 
