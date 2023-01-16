@@ -1,7 +1,4 @@
-### Summary            
-<a href="https://github.com/svaught598/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaught598&layout=compact" />
-</a>
+### Summary      
 
 I have a **[website](http://svaught.com)** that I haven't updated in forever hehe
 
